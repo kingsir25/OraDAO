@@ -1,5 +1,5 @@
 # Project Info
-- 在URL里使用SQL交互
+- using sql by URL RESTful API
 # Author
 - Wang Jian
 # Mail
@@ -7,9 +7,8 @@
 # Date
 - New 2017-09-27
 # release
-- 2017-07-28 增加 商品管理功能
-- 2017-07-29 增加 Mongodb
-# ???境
+- 2017-09-27
+# Ev
 - JDK 1.7
 - Spring boot 1.4.7
 - Maven 3.5.0
